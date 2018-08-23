@@ -1,1 +1,1 @@
-FLASK_APP=./app/__init__.py flask run
+FLASK_APP=./src/flaskscikit.py flask run
