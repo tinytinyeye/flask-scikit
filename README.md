@@ -1,8 +1,7 @@
 ## Installation
 ### virtualenv
 * To ensure a clean environment, please use *virtualenv* to install all packages.
-* To install virtualenv, run `python3 -m pip install --user virtualenv`
-* To create a new virtualenv, run `python3 -m virtualenv env`
+* To create a new virtualenv, run `python3 -m venv env`
 * To activate a virtualenv, run `source env/bin/activate`
 * To deactivate a virtualenv, run `deactivate`
 ### install required packages
